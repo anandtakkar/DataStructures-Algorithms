@@ -1,0 +1,1 @@
+in binary search we usually prefer to do beg + (end-beg)/2 so as to avoid overflow as any value to be represented as mid will alwysd lie less than (end-beg) 
